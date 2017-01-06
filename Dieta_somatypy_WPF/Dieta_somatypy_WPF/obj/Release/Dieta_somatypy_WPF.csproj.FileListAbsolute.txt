@@ -1,0 +1,32 @@
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Release\Dieta_somatypy_WPF.exe.config
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Release\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Release\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\MainWindow.g.cs
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\Page1.g.cs
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\App.g.cs
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF_MarkupCompile.cache
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF_MarkupCompile.lref
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\MainWindow.baml
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\Page1.baml
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.g.resources
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.Properties.Resources.resources
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.csproj.GenerateResource.Cache
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Release\Dieta_somatypy_WPF.exe.config
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Release\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Release\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\MainWindow.g.cs
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\Page1.g.cs
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\App.g.cs
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF_MarkupCompile.cache
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF_MarkupCompile.lref
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\MainWindow.baml
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\View\Page1.baml
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.g.resources
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.Properties.Resources.resources
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Release\Dieta_somatypy_WPF.csproj.GenerateResource.Cache

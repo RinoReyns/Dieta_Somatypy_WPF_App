@@ -1,0 +1,347 @@
+﻿<Page x:Class="Dieta_somatypy_WPF.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dieta_somatypy_WPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1060"
+      Title="Page1">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="0.8*"/>
+        </Grid.RowDefinitions>
+
+        <!--podkreślenie tytułu-->
+        <StackPanel Grid.Row="0" Height="0,75" >
+            <Label Content="Kalkulator" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" FontSize="35" 
+                   Margin="5,5"/>
+        </StackPanel>
+
+        <Border Grid.Row="0" BorderBrush="#FF1986D1" 
+                BorderThickness="0.5" 
+                VerticalAlignment="Bottom"/>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="12*" />
+                <ColumnDefinition Width="32*"/>
+                <ColumnDefinition Width="19*"/>
+                <ColumnDefinition Width="31*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="46*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label  Content="Imię: " Grid.Column="0" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Center"  Margin="5,0,5,5"
+                    FontSize="18"    />
+
+            <TextBox x:Name="ImieTextBox" Grid.Column="1" 
+                     Height="30"
+                     Width="130" HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     FontSize="18"    />
+
+            <Label  Content="Nazwisko: " Grid.Column="2" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Center"  
+                    Margin="5,0,5,5"
+                    FontSize="18" />
+
+            <TextBox x:Name="NazwiskoTextBox" Grid.Column="3" 
+                     Height="30"
+                     Width="130" HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     FontSize="18"  />
+
+        </Grid>
+
+        <!--Drugi wiersz i jego podział-->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="71*" />
+                <ColumnDefinition Width="195*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="156*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="142*"/>
+                <ColumnDefinition Width="114*"/>
+                <ColumnDefinition Width="170*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label  Content="Płeć: " Grid.Column="0"  
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Center"  
+                    Margin="5,0,5,5" 
+                    FontSize="18"  Width="52"/>
+
+            <ComboBox x:Name="Sex" Grid.Column="1"
+                      Width="130" HorizontalAlignment="Left" 
+                      FontSize="18" Height="32" />
+
+            <Label  Content="Wiek: " Grid.Column="2" 
+                    HorizontalAlignment="Right" 
+                    VerticalAlignment="Center"  Margin="5,0,5,5" 
+                    FontSize="18"  Width="58"/>
+
+            <TextBox x:Name="WiekTextBox" Grid.Column="3" 
+                    
+                     Width="130" HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     FontSize="18" />
+
+            <Label  Content="Masa: " Grid.Column="4" 
+                    HorizontalAlignment="Right" 
+                    VerticalAlignment="Center"  Margin="5,0,5,5" 
+                    FontSize="18"  Width="61"/>
+
+            <TextBox x:Name="WagaTextBox" Grid.Column="5" 
+                   
+                     Width="90" HorizontalAlignment="Left" 
+                     VerticalAlignment="Center"
+                     FontSize="18" />
+
+            <Label  Content="Aktywność: " Grid.Column="6"  
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Center"  
+                   Margin="5,0,5,5" 
+                    FontSize="18"  Width="104"/>
+
+            <ComboBox x:Name="ActivityComboBox" Grid.Column="7"
+                      Width="90" HorizontalAlignment="Left" 
+                      FontSize="18" Height="32"/>
+        </Grid>
+
+        <ListView Name="ListView1" Grid.Row="4" FontSize="15"  
+                  ItemsSource="{Binding  LocalCollection}"  
+                  BorderBrush="#FF1986D1"   >
+
+            <ListView.View >
+                <GridView  >
+                    <GridViewColumn Header="Imię" Width="125" 
+                                    DisplayMemberBinding=
+                                    "{Binding Imie}" />
+                    <GridViewColumn Header="Nazwisko" Width="130"
+                                    DisplayMemberBinding=
+                                    "{Binding Nazwisko}" />
+                    <GridViewColumn Header="Płeć" Width="100" 
+                                    DisplayMemberBinding=
+                                    "{Binding Plec}" />
+                    <GridViewColumn Header="Wiek" Width="80"
+                                    DisplayMemberBinding=
+                                    "{Binding Wiek}" />
+                    <GridViewColumn Header="Masa" Width="80"
+                                    DisplayMemberBinding=
+                                    "{Binding Masa}" />
+                    <GridViewColumn Header="Aktywność"  
+                                    Width="100"
+                                    DisplayMemberBinding=
+                                    "{Binding Aktywnosc}" />
+                    <GridViewColumn Header="BMR"  Width="70"
+                                    DisplayMemberBinding=
+                                    "{Binding BMR}"
+                                    />
+                    <GridViewColumn Header="Zapotrzebowanie całkowite"  
+                                    Width="198" 
+                                    DisplayMemberBinding=
+                                    "{Binding BMRPLL}" />
+                    <GridViewColumn Header="Data dodania"  
+                                    Width="148" 
+                                    DisplayMemberBinding=
+                                    "{Binding Date}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Grid Grid.Row="5" Background="Black">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Oblicz" Name="ObliczButton"  
+                    FontSize="18" Margin="10" Grid.Column="0"
+                    Click="ObliczButton_OnClick_Click" 
+                    FontWeight="Medium"
+                    IsDefault="True"
+                    >
+                <Button.Background >
+                    
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FF2CA4F7" Offset="0.41"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border  Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+
+            <Button Content="Zapisz" Name="SaveButton"  
+                    FontSize="18"
+                    FontWeight="Medium" Margin="10" Grid.Column="1"
+                    Click="SaveButton_OnClickButton_OnClick_Click"
+                    >
+                <Button.Background >
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FF2CF73E" Offset="0.41"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+            <Button Content="Załaduj" Name="LoadButton"  
+                    FontSize="18"
+                    FontWeight="Medium" Margin="10" Grid.Column="2"
+                    Click="LoadButton_OnClickButton_OnClick_Click" 
+                    IsDefault="True" >
+                <Button.Background >
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FFF7D22C" Offset="0.41"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+            <Button Content="Czyść listę" Name="ClearButton"  
+                    FontSize="18"
+                    FontWeight="SemiBold"  Margin="10" Grid.Column="3" 
+                    Click="ClearButton_OnClick" 
+                    >
+                <Button.Background >
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FFF72CF7" Offset="0.41"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button Content="Usuń osobę" Name="DeleteButton" 
+                    FontSize="18"
+                    FontWeight="Medium"
+                    Margin="10"  Grid.Column="4" 
+                    Click="DeleteButton_OnClickButton_Click"
+                   >
+
+                <Button.Background >
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FFEA7676" Offset="0.41"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" 
+                                                          VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+            <Button Content="Exit" Name="ExitButton" 
+                    FontSize="18"
+                    FontWeight="Medium"
+                    Margin="10"  Grid.Column="5" 
+                    Click="ExitButton_Click"
+                   >
+
+                <Button.Background >
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FFF72C2C" Offset="0.41"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" 
+                                                          VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+        </Grid>
+    </Grid>
+</Page>

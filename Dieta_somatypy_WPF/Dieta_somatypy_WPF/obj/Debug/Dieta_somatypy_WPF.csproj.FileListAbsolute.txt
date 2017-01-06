@@ -1,0 +1,48 @@
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.exe.config
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\Page1.g.cs
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\App.g.cs
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF_MarkupCompile.cache
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF_MarkupCompile.lref
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\MainWindow.baml
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\Page1.baml
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.g.resources
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.Properties.Resources.resources
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.csproj.GenerateResource.Cache
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\Documents\Visual Studio 2015\Projects\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.exe.config
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.exe
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.pdb
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\Page1.g.cs
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\App.g.cs
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF_MarkupCompile.cache
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF_MarkupCompile.lref
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\MainWindow.baml
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\Page1.baml
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.g.resources
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.Properties.Resources.resources
+C:\Users\Rino Reyns\Desktop\Wykłady\C#\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.csproj.GenerateResource.Cache
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.exe.config
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.exe
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.pdb
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.exe
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\bin\Debug\Dieta_somatypy_WPF.pdb
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.csprojResolveAssemblyReference.cache
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\MainWindow.g.cs
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\Page1.g.cs
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\App.g.cs
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF_MarkupCompile.cache
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF_MarkupCompile.lref
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\MainWindow.baml
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\View\Page1.baml
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.g.resources
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.Properties.Resources.resources
+F:\Repo\Dieta_somatypy_WPF\Dieta_somatypy_WPF\obj\Debug\Dieta_somatypy_WPF.csproj.GenerateResource.Cache
